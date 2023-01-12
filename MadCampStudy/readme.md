@@ -11,3 +11,8 @@
 - [1022](https://www.acmicpc.net/problem/1022) 소용돌이 예쁘게 출력하기
 - [15686](https://www.acmicpc.net/problem/15686) 치킨 배달
 - [17135](https://www.acmicpc.net/problem/17135) 캐슬 디펜스
+
+2022.12.30
+- [1092](https://www.acmicpc.net/problem/1092) 배
+- [1939](https://www.acmicpc.net/problem/1939) 중량제한
+- [5639](https://www.acmicpc.net/problem/5639) 이진 검색 트리
